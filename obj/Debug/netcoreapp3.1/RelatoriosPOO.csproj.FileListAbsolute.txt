@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.exe
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.dll
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.pdb
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.dll
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.pdb
+I:\Users\Makoto-dev\Desktop\Senai\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.genruntimeconfig.cache
